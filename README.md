@@ -4,3 +4,5 @@ the FCC repo.
 
 There is no particular order to the lessons as of yet. Each lesson is a separate
 module and should be treated as independent of each other.
+
+Currently each module contains a `lesson.py` and a `tests.py`.
