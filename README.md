@@ -6,3 +6,131 @@ There is no particular order to the lessons as of yet. Each lesson is a separate
 module and should be treated as independent of each other.
 
 Currently each module contains a `lesson.py` and a `tests.py`.
+
+- [ ] Intro to Python
+    - [ ] What and Whys of Python
+    - [ ] Legacy Python vs Python 3.6
+    - [ ] Getting Started
+        - What is an interpretter/REPL?
+        - [ ] repl.it
+        - [ ] Installing
+            - [ ] virtualenvs
+        - [ ] PEP 20
+            - [ ] `import this`
+    - [ ] JavaScript vs Python Gotcha's
+- [ ] Beginner Python
+    - [ ] Basics
+        - [ ] print()
+        - [ ] variables
+        - [ ] comments
+            - [ ] `#`
+            - [ ] `"""`
+            - [ ] mention documentation
+        - [ ] basic maths
+            - skip over explaining types here..."we'll get to that next."
+    - Primitive Types
+        - [ ] int
+        - [ ] float
+        - [ ] str
+            - mention unicode
+            - single vs double quotes
+            - string concat and interperlation
+            - [ ] str.methods()
+                - `lower()`, `upper()`
+                - `strip()`
+                - `isalpha()`, `isdigit()`, `isspace()`
+                - `startswith()`, `endswith()`
+                - `split()`, `join()`
+                - `find()`, `replace()`
+            - [ ] string formatting  # `.format()`, `%s`, `f'string'`
+        - [ ] list
+            - [ ] index / 0 index
+            - [ ] `len()`
+            - [ ] `append()`, `remove()`
+            - [ ] slice
+            - [ ] `insert()`, `extend()`, `index()`
+            - [ ] `sort()`, `reverse()`, `pop()`
+        - [ ] tuple
+            - [ ] immutable vs mutable
+            - [ ] tuple unpacking
+        - [ ] dict
+            - mention 'hash table'
+            - key/value pair
+            - `get()`
+            - `del`
+            - `keys()`, `values()`, `items()`
+                - Legacy vs Python 3.6
+        - [ ] set  # are these needed in an intro?
+            - same as list, but no duplicats
+            - `add()`
+        - [ ] bool
+            - [ ] truthy/falsey
+    - [ ] Operators
+        - [ ] +, -, *, /, //, %, **
+        - [ ] +=, -=, *=, /=
+        - <, >, <=, =>, ==, !=
+        - <<, >>, &, |, ~, ^
+        - `is`, `not`
+    - [ ] Math
+        - add, subtract, multiply, divide
+        - `pow()`, `sqrt()`, `abs()`, `round()`, `sum()`, `max()`, `min()`
+    - [ ] Conditionals
+        - [ ] `if`
+        - [ ] `else`
+        - [ ] `elif`
+    - [ ] Loops
+        - `while`
+        - `for .. in ...`
+            - `in` can check for membership too (`if thing in thigns:`)
+        - `range()`
+            - note `xrange()`
+        - `enumerate()`
+    - [ ] Functions
+        - [ ] `pass`
+        - [ ] `return`
+            - [ ] multiple items
+            - [ ] tuple unpacking
+        - [ ] arugments
+        - [ ] keyword arguments
+        - [ ] default arguments
+        - [ ] `*args`, `**kwargs`
+
+- [ ] Intermediate Python
+    - [ ] PEP 8 / PEP 20
+    - [ ] File I/O
+        - [ ] `with`
+        - [ ] reading
+        - [ ] writing
+    - [ ] Exceptions
+        - try/catch
+        - logging
+    - [ ] Classes / OOP
+        - [ ] `__init__`
+            - note about dunder
+        - [ ] `self`
+        - [ ] methods
+    - [ ] Modules / Libraries, Packages
+        - [ ] std lib
+            - [ ] using csv to read a CSV file
+            - [ ] collections
+                - [ ] namedtuple
+            - [ ] itertools
+            - [ ] `os`, `sys`
+        - [ ] installing/virtualenvs
+        - [ ] pip / pypi
+        - [ ] 3rd Party
+            - [ ] requests
+            - [ ] scrapy
+    - [ ] Iterators
+    - [ ] Generators
+    - [ ] Comprehensions
+        - [ ] list
+        - [ ] generator
+        - [ ] dict
+    - [ ] lambda
+    - [ ] Decorators
+    - [ ] testing
+
+- [ ] Advanced
+    - [ ] Context Managers
+    - [ ] asyncio
