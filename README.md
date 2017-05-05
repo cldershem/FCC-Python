@@ -5,9 +5,10 @@ the FCC repo.
 
 There is no particular order to the lessons as of yet. Each lesson is a separate
 module and should be treated as independent of each other. Currently each
-module contains a `lesson.md` and a `tests.py`. `lesson.md` may eventually need
-to be converted to a Python file, but for development purposes, markdown makes
-it a lot easier to read the lessons.
+module contains a `lesson.md` and a `tests.py`. `lesson.md` is a markdown file
+to allow for easier development and to lower the bar for contributors. When
+pasting into `repl.it` the file can be contained within `'''` to make it one
+large, module-level docstring which will contain no syntax errors.
 
 ## Outline
 ### Intro to Python
