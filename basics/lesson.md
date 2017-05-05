@@ -1,11 +1,27 @@
 ## Python Basics
-## printing to the console
+
+## Printing to the Screen
+Like every good tutorial, the first thing we've got to learn is how to print to
+the screen.
+
+In *Python 3.3+, `print` is a function (you'll learn about those later) that
+takes an argument and prints it to the screen.
 ```
 >>> print('Hello, World!')
 Hello, World!
 ```
 
-## variables
+*In Legacy Python, `print` was a keyword meaning it was used like this:
+```
+print 'Hello, World!'
+```
+The two styles are functionally the same, just know that you might see both
+styles occasionally. `print()` as a function is backwards compatible, but
+`print` as a keyword is not forwards compatible. That means you should always
+use `print()` as a function.
+
+## Variables
+A variable in Python is a way to make an item have a name.
 ```
 >>> x = 3
 >>> x
