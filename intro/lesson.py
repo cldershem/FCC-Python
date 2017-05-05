@@ -32,13 +32,40 @@ Windows it might take an extra step or two. If you'd like to follow along on
 your own machine you can follows [this instructions]() to get Python 3.6
 installed.
 
-However, for the time being at least, we will be using an interpretter embeded
-in this webpage.
-"""
+However, for the time being at least, we will be using a REPL on the web.
+
+REPL stands for Read, Evaluate, Print, Loop. All you need to know now is that
+when you type something after the `>>> ` prompt, the computer with interrpret
+it and evaulate its meaning before showing you the results.
 
 # The `>>> ` symbol is the prompt in the Python interpretter
->>> print('Hello, World!')
-Hello, World!
-
+>>> this is where you type
+output comes out here
+"""
 
 # Give it a try!
+>>> import this
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+# Don't worry about what any of that means for now. You'll start to understand \
+# it all later
