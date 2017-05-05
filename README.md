@@ -12,15 +12,15 @@ large, module-level docstring which will contain no syntax errors.
 
 ## Outline
 ### Intro to Python
-- [ ] What and Whys of Python
-- [ ] Legacy Python vs Python 3.6
+- [X] What and Whys of Python
+- [X] Legacy Python vs Python 3.6
 - [ ] Getting Started
     - What is an interpretter/REPL?
     - [ ] repl.it
     - [ ] Installing
         - [ ] virtualenvs
-    - [ ] PEP 20
-        - [ ] `import this`
+    - [X] PEP 20
+        - [X] `import this`
 - [ ] JavaScript vs Python Gotcha's
 ### Beginner Python
 - [ ] Basics
