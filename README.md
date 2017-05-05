@@ -83,6 +83,7 @@ large, module-level docstring which will contain no syntax errors.
 - [ ] Math
     - [ ] add, subtract, multiply, divide
     - [ ] `pow()`, `sqrt()`, `abs()`, `round()`, `sum()`, `max()`, `min()`
+    - [ ] `random.random()`, `random.choice()`
 - [ ] Conditionals
     - [ ] `if`
     - [ ] `else`
