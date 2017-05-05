@@ -1,7 +1,10 @@
 # Free Code Camp - Python Curriculum
 This repo is for the Free Code Camp Python curriculum. Everything here is a
 reference to [this issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/14588) on
-the FCC repo.
+the FCC repo.  Currently, how the lessons and tests will be implemented is up
+in the air a little. This repo contains the basic lesson plan for each section.
+Once the implementation is figured out we can get everything re-jiggered to the
+correct layout.
 
 There is no particular order to the lessons as of yet. Each lesson is a separate
 module and should be treated as independent of each other. Currently each
@@ -9,6 +12,7 @@ module contains a `lesson.md` and a `tests.py`. `lesson.md` is a markdown file
 to allow for easier development and to lower the bar for contributors. When
 pasting into `repl.it` the file can be contained within `'''` to make it one
 large, module-level docstring which will contain no syntax errors.
+
 
 ## Outline
 ### Intro to Python
