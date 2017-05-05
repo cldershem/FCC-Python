@@ -29,7 +29,7 @@ module contains a `lesson.py` and a `tests.py`.
         - [ ] mention documentation
     - [ ] basic maths
         - skip over explaining types here..."we'll get to that next."
-- Primitive Types
+- [ ] Primitive Types
     - [ ] int
     - [ ] float
     - [ ] str
