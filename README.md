@@ -33,10 +33,10 @@ large, module-level docstring which will contain no syntax errors.
     - [ ] basic maths
         - skip over explaining types here..."we'll get to that next."
 - [ ] Primitive Types
-    - [ ] `type()`
-    - [ ] int
-    - [ ] float
-    - [ ] str
+    - [X] `type()`
+    - [X] `int`
+    - [X] `float`
+    - [ ] `str`
         - [ ] mention unicode
         - [ ] single vs double quotes
         - [ ] string concat and interperlation
@@ -48,27 +48,27 @@ large, module-level docstring which will contain no syntax errors.
             - [ ] `split()`, `join()`
             - [ ] `find()`, `replace()`
         - [ ] string formatting  # `.format()`, `%s`, `f'string'`
-    - [ ] list
+    - [ ] `list`
         - [ ] index / 0 index
         - [ ] `len()`
         - [ ] `append()`, `remove()`
         - [ ] slice
         - [ ] `insert()`, `extend()`, `index()`
         - [ ] `sort()`, `reverse()`, `pop()`
-    - [ ] tuple
+    - [ ] `tuple`
         - [ ] immutable vs mutable
         - [ ] tuple unpacking
-    - [ ] dict
+    - [ ] `dict`
         - [ ] mention 'hash table'
         - [ ] key/value pair
         - [ ] `get()`
         - [ ] `del`
         - [ ] `keys()`, `values()`, `items()`
             - [ ] Legacy vs Python 3.6
-    - [ ] set  # are these needed in an intro?
+    - [ ] `set()` # are these needed in an intro?
         - [ ] same as list, but no duplicats
         - [ ] `add()`
-    - [ ] bool
+    - [ ] `bool`
         - [ ] truthy/falsey
 - [ ] Operators
     - [ ] +, -, *, /, //, %, **
