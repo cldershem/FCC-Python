@@ -1,3 +1,4 @@
+'''
 # printing to the console
 >>> print('Hello, World!')
 Hello, World!
@@ -24,3 +25,4 @@ You can write full paragraphs inside of this style of comment which makes it
 great for documenting a module, funciton, method, class, or any other thing in
 Python.
 """
+'''
