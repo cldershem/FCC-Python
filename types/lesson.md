@@ -1,3 +1,4 @@
+```md
 # Types
 ## `type()`
 Before we can get into what a what a type is and how a type works, let's learn
@@ -47,3 +48,4 @@ the different variables and things a program creates. You don't need to worry
 about the details of that right now, in fact, you can go for a pretty long time
 before you need to worry about any of that. All that is important is that items
 of different types have interact with each other in different ways.
+```
