@@ -6,22 +6,22 @@ a really useful built-in function, `type()`.
 As the name would suggest, `type()` shows you what type an item is. Don't worry
 about what the actual types mean quite yet, we'll get there next.
 
-'''
+```
 >>> type(3)
 <class 'int'>
 >>> type(5.2)
 <class 'float'>
 >>> type("spam")
 <class 'str'>
-'''
+```
 
 It also works on variables
 
-'''
+```
 >>> a = 6
 >>> type(a)
 <class 'int'>
-'''
+```
 
 ## Integers
 An integer is any whole number, positive or negative. That means any number
