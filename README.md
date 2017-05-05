@@ -30,6 +30,7 @@ module contains a `lesson.py` and a `tests.py`.
     - [ ] basic maths
         - skip over explaining types here..."we'll get to that next."
 - [ ] Primitive Types
+    - [ ] `type()`
     - [ ] int
     - [ ] float
     - [ ] str
