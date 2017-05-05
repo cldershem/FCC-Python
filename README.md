@@ -82,7 +82,7 @@ module contains a `lesson.py` and a `tests.py`.
 - [ ] Loops
     - [ ] `while`
     - [ ] `for .. in ...`
-        - [ ] `in` can check for membership too (`if thing in thigns:`)
+        - [ ] `in` can check for membership too (`if thing in things:`)
     - [ ] `range()`
         - [ ] note `xrange()`
     - [ ] `enumerate()`
